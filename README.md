@@ -1,7 +1,7 @@
-- 👋 Hola!, Soy @JavierSuarezSuarez, Ingeniero Informático por la Universidad de Las Palmas de Gran Canaria (ULPGC)
-- 👀 Estoy interesado en SysAdmin, Ciberseguridad, Software Development (Especialmente Web Backend aunque otras opciones son igualmente bienvenidas)
-- 🌱 Actualmente estoy aprendiendo a desarrollar en .NET
-- 📫 Para contactarme -> javiersrzsrz@gmail.com
+- 👋 Hi!, I'm @JavierSuarezSuarez
+- 👀 I'm interested in SysAdmin, Cybersecurity, Software Development (Web Backend but other options are welcomed)
+- 🌱 I'm currently learning .NET development
+- 📫 How to reach me -> javiersrzsrz@gmail.com
 
 <!---
 JavierSuarezSuarez/JavierSuarezSuarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
